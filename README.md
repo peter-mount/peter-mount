@@ -8,8 +8,9 @@
   * 🔗 [departureboards.mobi](https://departureboards.mobi) showing live UK rail departures, [repo](https://github.com/peter-mount/departureboards) [repo](https://github.com/peter-mount/nre-feeds)
   * 🔗 [uktra.in](https://uktra.in) showing live rail deparutures but using cURL
 * 📫 You can find me online at:
-  * 💬 Twitter: [@peter_mount](https://twitter.com/peter_mount)
   * 💬 Mastodon: [@peter@area51.social](https://area51.social/@peter)
+  * 💬 PeerTube: [@peter@area51.media](https://area51.media/a/peter/video-channels)
+  * 💬 Twitter: [@peter_mount](https://twitter.com/peter_mount)
 
 <!--
 **peter-mount/peter-mount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
